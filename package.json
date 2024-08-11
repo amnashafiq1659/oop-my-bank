@@ -1,0 +1,17 @@
+{
+  "name": "am1na6oop-my-bank",
+  "version": "1.0.1",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This is a cli-based bank using TypeScript, NodeJs and Inquirer.",
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.8"
+  }
+}
